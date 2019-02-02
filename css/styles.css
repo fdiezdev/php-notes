@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+
+.logo {
+    font-family: 'Pacifico', cursive;
+}
+
+.split {
+    margin: .7rem;
+}
+
+.split-lg {
+    margin: 2rem;
+}
+
+.special {
+    border: 0;
+    padding: 10px;
+    border-left: 3px solid #009688;
+    resize: none;
+    height: calc(100vh - 100px);
+}
+
+.special:focus {
+    outline: 0;
+}
